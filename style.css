@@ -75,7 +75,7 @@
 	
 /** job board layout 2 **/
 #eclipse_job_board .vacancy-layout-2 .vacancy-meta{
-	border: 1px dashed #ccc !important;
+	border: 1px dashed #fff !important;
     width: 100% !important;
 }
 
@@ -89,13 +89,16 @@
 }
 
 #eclipse_job_board .vacancy-layout-2 .vacancy-action{
-    border: 1px dashed #ccc !important;
     float: left !important;
     width: 100% !important;
 }
 
 #eclipse_job_board .vacancy-layout-2 .vacancy-action .action-buttons a {
-	border:1px dashed #ccc !important;	
+    width: 100px !important;	
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-action .action-buttons .button-apply {
+	
 }
 
 #eclipse_job_board .vacancy-layout-2 .vacancy-description {
