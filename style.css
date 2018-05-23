@@ -31,6 +31,25 @@
 /** job details layout 1 **/
 	
 	
+/** job details layout 2 **/
+.vacancy-layout-2 #eclipse_vacancy{
+}
+
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta{
+
+}
+
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl{
+}
+
+.vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val{
+}
+	
+.vacancy-layout-2 #eclipse_vacancy .vacancy-action{
+}
+/** job details layout 2 **/	
+	
+	
 /** job board layout 1 **/
 #eclipse_job_board .vacancy-layout-1 .vacancy-meta{
 
@@ -49,6 +68,37 @@
 }
 
 #eclipse_job_board .vacancy-layout-1 .vacancy-description {
+
+}
+/** job board layout 1 **/
+	
+	
+/** job board layout 2 **/
+#eclipse_job_board .vacancy-layout-2 .vacancy-meta{
+	border: 1px dashed #ccc !important;
+    width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-meta .vac-lbl{
+	width:50%;
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-meta .vac-val{
+    min-width: 0 !important;
+    width: 50% !important;
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-action{
+    border: 1px dashed #ccc !important;
+    float: left !important;
+    width: 100% !important;
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-action .action-buttons a {
+	border:1px dashed #ccc !important;	
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-description {
 
 }
 /** job board layout 1 **/
