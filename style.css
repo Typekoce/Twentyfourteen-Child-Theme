@@ -27,7 +27,7 @@
 
 .vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val {
 
-    width: 66% !important;
+	width: 66% !important;
 }
 
 .vacancy-layout-1 #eclipse_vacancy .vacancy-action {
@@ -43,13 +43,21 @@
 }
 
 .vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-lbl {
+	width: 41% !important;
 }
 
 .vacancy-layout-2 #eclipse_vacancy .vacancy-meta .vac-val {
+
+	width: 58% !important;
 }
 
 .vacancy-layout-2 #eclipse_vacancy .vacancy-action {
 }
+
+.vacancy-layout-2 #eclipse_vacancy .vacancy-action .action-buttons a {
+	width: 111px !important;
+}
+
 /** job details layout 2 **/
 
 /** job board layout 1 **/
@@ -95,7 +103,7 @@
 }
 
 #eclipse_job_board .vacancy-layout-2 .vacancy-action .action-buttons a {
-	width: 100px !important;
+
 }
 
 #eclipse_job_board .vacancy-layout-2 .vacancy-action .action-buttons .button-apply {
