@@ -60,6 +60,33 @@
 
 /** job details layout 2 **/
 
+/** job details layout 3 **/
+.vacancy-layout-3 #eclipse_vacancy {
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta {
+	float: left !important;
+	width: 100% !important;
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-lbl {
+	width: 31% !important;
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-meta .vac-val {
+	width: 68%;
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-action {
+	float: left !important;
+	width: 100% !important;
+}
+
+.vacancy-layout-3 #eclipse_vacancy .vacancy-action .action-buttons a {
+}
+
+/** job details layout 3 **/
+
 /** job board layout 1 **/
 #eclipse_job_board .vacancy-layout-1 .vacancy-meta {
 
